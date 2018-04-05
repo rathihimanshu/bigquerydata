@@ -1,0 +1,7 @@
+gbpusd_201401	gs://solutions-public-assets/time-series-master/GBPUSD_2014_01.csv
+gbpusd_201402	gs://solutions-public-assets/time-series-master/GBPUSD_2014_02.csv
+
+
+venue:STRING,currencies:STRING,time:TIMESTAMP,bid:FLOAT,ask:FLOAT
+
+
